@@ -10,6 +10,6 @@ Usar para escrever suas notas
 '''
 
 # Permite escrever um comentário de uma linha
-print(123) # Na frente
+print(123)
 # Abaixo
 print(123)
