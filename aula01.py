@@ -1,2 +1,2 @@
-print('Hello, world!')
-print('Opa, editei.')
+# Permite escrever um comentário
+print(123)
